@@ -1,0 +1,6 @@
+com/institute/student/beans/Subject.class
+com/institute/student/utils/ResultResponse.class
+com/institute/student/controllers/StudentController.class
+com/institute/student/beans/Student.class
+com/institute/student/beans/StudentDAO.class
+com/institute/student/main/DemoApplication.class
